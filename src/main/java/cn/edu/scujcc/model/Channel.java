@@ -22,6 +22,7 @@ public class Channel{
 	
 	/*
 	 * 返回此频道的所有评论!!!!!!!
+	 * 12312313
 	 * @return
 	 * */
 	

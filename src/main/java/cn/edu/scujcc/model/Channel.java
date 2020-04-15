@@ -21,7 +21,7 @@ public class Channel{
 	private List<Comment> comments;
 	
 	/*
-	 * 返回此频道的所有评论
+	 * 返回此频道的所有评论!!!!!!!
 	 * @return
 	 * */
 	
